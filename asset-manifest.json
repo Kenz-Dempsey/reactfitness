@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactfitness/static/css/main.073c9b0a.css",
+    "main.js": "/reactfitness/static/js/main.7624b9af.js",
+    "static/js/787.07533da3.chunk.js": "/reactfitness/static/js/787.07533da3.chunk.js",
+    "static/media/logo.svg": "/reactfitness/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactfitness/index.html",
+    "main.073c9b0a.css.map": "/reactfitness/static/css/main.073c9b0a.css.map",
+    "main.7624b9af.js.map": "/reactfitness/static/js/main.7624b9af.js.map",
+    "787.07533da3.chunk.js.map": "/reactfitness/static/js/787.07533da3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7624b9af.js"
+  ]
+}
